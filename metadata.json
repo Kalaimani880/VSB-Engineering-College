@@ -1,0 +1,8 @@
+{
+  "name": "Copy of VSB Engineering College Portal",
+  "description": "A comprehensive digital portal for VSB Engineering College students and aspirants, featuring academic details, placement statistics, campus life information, and an AI-powered code & campus assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
